@@ -11,7 +11,7 @@ This portfolio website includes sections for:
 - **Skills**: A list of Bisesh Paneru's skills, including quality assurance, software testing, JAVA, automation (Selenium), and more.
 - **Experience**: Bisesh Paneru's work experience, including positions held at various companies.
 - **Profiles**: Links to Bisesh Paneru's profiles on GitHub, Bitbucket, LinkedIn, Facebook, Instagram, Twitter, Pinterest, and YouTube.
-- **Contact**: A contact form to get in touch with Lav Thaiba.
+- **Contact**: A contact form to get in touch with Bisesh Paneru.
 
 ## Contents
 
