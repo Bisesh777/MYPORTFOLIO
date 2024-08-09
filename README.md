@@ -23,7 +23,7 @@ This portfolio website includes sections for:
 ## Usage
 Navigate through different sections using the navigation bar.
 Explore Bisesh Paneru's skills, experience, and profiles.
-Use the contact form to send a message to Lav Thaiba.
+Use the contact form to send a message to Bisesh Paneru.
 
 send_mail.php: The send_mail.php file located in the root directory handles the functionality for sending emails via the contact form.
 
