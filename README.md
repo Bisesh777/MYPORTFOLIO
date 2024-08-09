@@ -34,7 +34,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Credits
 
-This portfolio website is based on the Browny template obtained from ThemeWagon, under the terms of their license. The template was customized by Lav Thaiba.
+This portfolio website is based on the Browny template obtained from ThemeWagon, under the terms of their license. The template was customized by Bisesh Paneru.
 
 For more information about the licensing terms, please refer to [ThemeWagon's license](https://themewagon.com/license/).
 
